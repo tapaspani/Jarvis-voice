@@ -21,19 +21,6 @@ From launching apps to making calls and chatting, Jarvis brings AI and automatio
 
 ---
 
-## 🖼️ Demo
-
-### 🔐 Face Authentication  
-![Face Authentication](https://github.com/digambar2002/image-hosting/blob/main/How_to_make_Jarvis_in_Python__voice_assistant__jarvis_iron_m.gif)
-
-### 🎤 Speech to Text Recognition  
-![Speech to Text](https://github.com/digambar2002/image-hosting/blob/main/e.gif)
-
-### 🎵 Play Music on Spotify  
-![Play Music in Spotify](https://github.com/digambar2002/image-hosting/blob/main/2.gif)
-
----
-
 ## 🛠️ Tech Stack
 
 - **Python** – Core logic
@@ -47,5 +34,5 @@ From launching apps to making calls and chatting, Jarvis brings AI and automatio
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/jarvis-python-assistant.git
+git clone https://github.com/tapaspani/jarvis-voice.git
 cd jarvis-python-assistant
