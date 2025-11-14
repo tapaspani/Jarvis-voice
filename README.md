@@ -35,4 +35,4 @@ From launching apps to making calls and chatting, Jarvis brings AI and automatio
 
 ```bash
 git clone https://github.com/tapaspani/jarvis-voice.git
-cd jarvis-python-assistant
+cd jarvis-voice
